@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://say233.com/"/>
   <updated>2018-12-29T02:41:10.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://say233.com/</id>
   
   <author>
     <name>Lei Zhang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>MarkDown语法</title>
-    <link href="http://yoursite.com/2015/07/28/firstArticle/"/>
-    <id>http://yoursite.com/2015/07/28/firstArticle/</id>
+    <link href="http://say233.com/2015/07/28/firstArticle/"/>
+    <id>http://say233.com/2015/07/28/firstArticle/</id>
     <published>2015-07-28T00:02:51.000Z</published>
     <updated>2018-12-29T02:41:10.000Z</updated>
     
@@ -32,12 +32,12 @@
     
     </summary>
     
-      <category term="markdown" scheme="http://yoursite.com/categories/markdown/"/>
+      <category term="markdown" scheme="http://say233.com/categories/markdown/"/>
     
-      <category term="语法" scheme="http://yoursite.com/categories/markdown/%E8%AF%AD%E6%B3%95/"/>
+      <category term="语法" scheme="http://say233.com/categories/markdown/%E8%AF%AD%E6%B3%95/"/>
     
     
-      <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
+      <category term="markdown" scheme="http://say233.com/tags/markdown/"/>
     
   </entry>
   

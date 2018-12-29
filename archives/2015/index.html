@@ -102,9 +102,10 @@
 
 
 
-  <meta property="og:type" content="website">
+  <meta name="keywords" content="say233, say233store, leoozhang, zhanglei, leizhang, 张磊, 张磊的博客, 张磊博客">
+<meta property="og:type" content="website">
 <meta property="og:title" content="SAY233">
-<meta property="og:url" content="http://yoursite.com/archives/2015/index.html">
+<meta property="og:url" content="http://say233.com/archives/2015/index.html">
 <meta property="og:site_name" content="SAY233">
 <meta property="og:locale" content="zh-CN">
 <meta name="twitter:card" content="summary">
@@ -117,7 +118,7 @@
 
 
 
-  <link rel="canonical" href="http://yoursite.com/archives/2015/">
+  <link rel="canonical" href="http://say233.com/archives/2015/">
 
 
 
@@ -1044,75 +1045,6 @@
   
 
   
-  <script>
-    
-    function showTime(Counter) {
-      var entries = [];
-      var $visitors = $(".leancloud_visitors");
-
-      $visitors.each(function () {
-        entries.push( $(this).attr("id").trim() );
-      });
-
-      Counter('get', '/classes/Counter', { where: JSON.stringify({ url: { "$in": entries } }) })
-        .done(function ({ results }) {
-          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
-
-          if (results.length === 0) {
-            $visitors.find(COUNT_CONTAINER_REF).text(0);
-            return;
-          }
-
-          for (var i = 0; i < results.length; i++) {
-            var item = results[i];
-            var url = item.url;
-            var time = item.time;
-            var element = document.getElementById(url);
-
-            $(element).find(COUNT_CONTAINER_REF).text(time);
-          }
-          for(var i = 0; i < entries.length; i++) {
-            var url = entries[i];
-            var element = document.getElementById(url);
-            var countSpan = $(element).find(COUNT_CONTAINER_REF);
-            if( countSpan.text() == '') {
-              countSpan.text(0);
-            }
-          }
-        })
-        .fail(function ({ responseJSON }) {
-          console.log("LeanCloud Counter Error: " + responseJSON.code + " " + responseJSON.error);
-        });
-    }
-    
-
-    $(function() {
-      $.get('https://app-router.leancloud.cn/2/route?appId=' + "lJ6uIWyzcJ4UdsvASTWsT9hO-gzGzoHsz")
-        .done(function ({ api_server }) {
-          var Counter = function (method, url, data) {
-            return $.ajax({
-              method: method,
-              url: `https://${api_server}/1.1${url}`,
-              headers: {
-                'X-LC-Id': "lJ6uIWyzcJ4UdsvASTWsT9hO-gzGzoHsz",
-                'X-LC-Key': "S6oFJ0EyGKb0pCruUBCLOb5P",
-                'Content-Type': 'application/json',
-              },
-              data: data,
-            });
-          };
-          
-          if ($('.post-title-link').length >= 1) {
-            showTime(Counter);
-          }
-          
-        })
-    });
-  </script>
-
-
-
-  
 
   
 <script>
@@ -1145,6 +1077,15 @@
   
 
   
+  
+  
+  <script src="/lib/bookmark/bookmark.min.js?v=1.0"></script>
+  <script>
+  
+    bookmark.loadBookmark();
+  
+  </script>
+
 
   
 
