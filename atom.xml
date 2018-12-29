@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-29T02:33:18.790Z</updated>
+  <updated>2018-12-29T02:41:10.973Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2015/07/28/firstArticle/"/>
     <id>http://yoursite.com/2015/07/28/firstArticle/</id>
     <published>2015-07-28T00:02:51.000Z</published>
-    <updated>2018-12-29T02:33:18.790Z</updated>
+    <updated>2018-12-29T02:41:10.973Z</updated>
     
     <summary type="html">
     
@@ -34,7 +34,7 @@
     
       <category term="markdown" scheme="http://yoursite.com/categories/markdown/"/>
     
-      <category term="基础" scheme="http://yoursite.com/categories/markdown/%E5%9F%BA%E7%A1%80/"/>
+      <category term="语法" scheme="http://yoursite.com/categories/markdown/%E8%AF%AD%E6%B3%95/"/>
     
     
       <category term="markdown" scheme="http://yoursite.com/tags/markdown/"/>
