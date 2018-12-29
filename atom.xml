@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://say233.com/"/>
-  <updated>2018-12-29T09:36:59.359Z</updated>
+  <updated>2018-12-29T11:20:01.195Z</updated>
   <id>http://say233.com/</id>
   
   <author>
@@ -21,12 +21,11 @@
     <link href="http://say233.com/2015/07/28/markdownG/"/>
     <id>http://say233.com/2015/07/28/markdownG/</id>
     <published>2015-07-28T00:02:51.000Z</published>
-    <updated>2018-12-29T09:36:59.359Z</updated>
+    <updated>2018-12-29T11:20:01.195Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;em&gt;2017年1月22日更新&lt;/em&gt;&lt;/p&gt;
-&lt;h1 id=&quot;Markdown-的设计哲学&quot;&gt;&lt;a href=&quot;#Markdown-的设计哲学&quot; class=&quot;headerlink&quot; title=&quot;Markdown 的设计哲学&quot;&gt;&lt;/a&gt;Markdown 的设计哲学&lt;/h1&gt;&lt;blockquote&gt;
+      &lt;h1 id=&quot;Markdown-的设计哲学&quot;&gt;&lt;a href=&quot;#Markdown-的设计哲学&quot; class=&quot;headerlink&quot; title=&quot;Markdown 的设计哲学&quot;&gt;&lt;/a&gt;Markdown 的设计哲学&lt;/h1&gt;&lt;blockquote&gt;
 &lt;p&gt;Markdown 的目標是實現「易讀易寫」。&lt;br&gt;不過最需要強調的便是它的可讀性。一份使用 Markdown 格式撰寫的文件應該可以直接以純文字發佈，並且看起來不會像是由許多標籤或是格式指令所構成。&lt;br&gt;Markdown 的語法有個主要的目的：用來作為一種網路內容的&lt;em&gt;寫作&lt;/em&gt;用語言。&lt;/p&gt;
 &lt;/blockquote&gt;
     
