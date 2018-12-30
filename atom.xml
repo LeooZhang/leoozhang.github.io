@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://say233.com/"/>
-  <updated>2018-12-29T18:37:12.824Z</updated>
+  <updated>2018-12-30T10:26:16.429Z</updated>
   <id>http://say233.com/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>weiqing1.8.2</title>
+    <link href="http://say233.com/2018/12/30/weiqing1-8-2/"/>
+    <id>http://say233.com/2018/12/30/weiqing1-8-2/</id>
+    <published>2018-12-30T03:38:48.000Z</published>
+    <updated>2018-12-30T10:26:16.429Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;微擎&quot;&gt;&lt;a href=&quot;#微擎&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="http://say233.com/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="微擎" scheme="http://say233.com/categories/%E8%BD%AF%E4%BB%B6/%E5%BE%AE%E6%93%8E/"/>
+    
+    
+      <category term="微擎" scheme="http://say233.com/tags/%E5%BE%AE%E6%93%8E/"/>
+    
+      <category term="软件" scheme="http://say233.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+  </entry>
   
   <entry>
     <title>MarkDown语法</title>
