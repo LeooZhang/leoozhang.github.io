@@ -283,7 +283,7 @@
     <link href="https://say233.store/2015/07/28/markdownG/"/>
     <id>https://say233.store/2015/07/28/markdownG/</id>
     <published>2015-07-28T00:02:51.000Z</published>
-    <updated>2018-12-31T03:05:45.733Z</updated>
+    <updated>2018-12-31T17:51:11.792Z</updated>
     
     <summary type="html">
     
@@ -298,12 +298,16 @@
     
     </summary>
     
-      <category term="markdown" scheme="https://say233.store/categories/markdown/"/>
+      <category term="认知" scheme="https://say233.store/categories/%E8%AE%A4%E7%9F%A5/"/>
     
-      <category term="语法" scheme="https://say233.store/categories/markdown/%E8%AF%AD%E6%B3%95/"/>
+      <category term="markdown" scheme="https://say233.store/categories/%E8%AE%A4%E7%9F%A5/markdown/"/>
     
     
       <category term="markdown" scheme="https://say233.store/tags/markdown/"/>
+    
+      <category term="语法" scheme="https://say233.store/tags/%E8%AF%AD%E6%B3%95/"/>
+    
+      <category term="基础" scheme="https://say233.store/tags/%E5%9F%BA%E7%A1%80/"/>
     
   </entry>
   
