@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://say233.store/"/>
-  <updated>2018-12-31T07:30:21.156Z</updated>
+  <updated>2018-12-31T08:11:42.402Z</updated>
   <id>https://say233.store/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不知道谁推荐的书单</title>
+    <link href="https://say233.store/2018/12/31/bookList/"/>
+    <id>https://say233.store/2018/12/31/bookList/</id>
+    <published>2018-12-31T07:47:28.000Z</published>
+    <updated>2018-12-31T08:11:42.402Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;说明&quot;&gt;&lt;a href=&quot;#说明&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="书籍" scheme="https://say233.store/categories/%E4%B9%A6%E7%B1%8D/"/>
+    
+    
+      <category term="书单" scheme="https://say233.store/tags/%E4%B9%A6%E5%8D%95/"/>
+    
+  </entry>
   
   <entry>
     <title>平台战略 PDF</title>
