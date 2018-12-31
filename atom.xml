@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://say233.store/"/>
-  <updated>2018-12-31T08:18:42.447Z</updated>
+  <updated>2018-12-31T13:35:38.233Z</updated>
   <id>https://say233.store/</id>
   
   <author>
@@ -15,6 +15,39 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搭建Hexo博客的方法</title>
+    <link href="https://say233.store/2018/12/31/buildHexo/"/>
+    <id>https://say233.store/2018/12/31/buildHexo/</id>
+    <published>2018-12-31T08:42:17.000Z</published>
+    <updated>2018-12-31T13:35:38.233Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;本地部署Hexo&quot;&gt;&lt;a href=&quot;#本地部署Hexo&quot; class=&quot;headerlink&quot; title=&quot;本地部署Hexo&quot;&gt;&lt;/a&gt;本地部署Hexo&lt;/h1&gt;&lt;p&gt;先在本地部署好hexo再说其他的。&lt;/p&gt;
+&lt;h2 id=&quot;前提&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="教程" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="教程" scheme="https://say233.store/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="hexo" scheme="https://say233.store/tags/hexo/"/>
+    
+      <category term="next" scheme="https://say233.store/tags/next/"/>
+    
+  </entry>
   
   <entry>
     <title>不知道谁推荐的书单</title>
