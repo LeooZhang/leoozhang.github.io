@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://say233.store/"/>
-  <updated>2019-01-01T10:09:28.649Z</updated>
+  <updated>2019-01-02T04:12:27.787Z</updated>
   <id>https://say233.store/</id>
   
   <author>
@@ -15,6 +15,66 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微课堂2.6.3</title>
+    <link href="https://say233.store/2019/01/02/weiketang/"/>
+    <id>https://say233.store/2019/01/02/weiketang/</id>
+    <published>2019-01-02T03:34:21.000Z</published>
+    <updated>2019-01-02T04:12:27.787Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;微课堂&quot;&gt;&lt;a href=&quot;#微课堂&quot; class=&quot;headerlink&quot; title=&quot;微课堂&quot;&gt;&lt;/a&gt;微课堂&lt;/h1&gt;&lt;p&gt;基于微擎系统的功能模块，通过接入微信商户完成清算功能。线上付费视频产品，通过讲师端上传视频，后台审核通过后在客户端上线。&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="微擎" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/%E5%BE%AE%E6%93%8E/"/>
+    
+    
+      <category term="微擎模块" scheme="https://say233.store/tags/%E5%BE%AE%E6%93%8E%E6%A8%A1%E5%9D%97/"/>
+    
+      <category term="微课堂" scheme="https://say233.store/tags/%E5%BE%AE%E8%AF%BE%E5%A0%82/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>钻石投票5.32</title>
+    <link href="https://say233.store/2019/01/02/toupiao/"/>
+    <id>https://say233.store/2019/01/02/toupiao/</id>
+    <published>2019-01-02T03:34:11.000Z</published>
+    <updated>2019-01-02T04:14:39.953Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;钻石投票&quot;&gt;&lt;a href=&quot;#钻石投票&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="微擎" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/%E5%BE%AE%E6%93%8E/"/>
+    
+    
+      <category term="微擎模块" scheme="https://say233.store/tags/%E5%BE%AE%E6%93%8E%E6%A8%A1%E5%9D%97/"/>
+    
+      <category term="钻石投票" scheme="https://say233.store/tags/%E9%92%BB%E7%9F%B3%E6%8A%95%E7%A5%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>财务思维课7 现金结构：现金流为负，为何还能上市？</title>
@@ -414,11 +474,11 @@
   </entry>
   
   <entry>
-    <title>疯狂抢红包</title>
+    <title>疯狂抢红包8.0.4</title>
     <link href="https://say233.store/2018/12/31/haoman-qjb/"/>
     <id>https://say233.store/2018/12/31/haoman-qjb/</id>
     <published>2018-12-31T03:23:17.000Z</published>
-    <updated>2018-12-31T06:57:55.072Z</updated>
+    <updated>2019-01-02T04:13:09.770Z</updated>
     
     <summary type="html">
     
@@ -426,8 +486,7 @@
       
         
         
-          &lt;h1 id=&quot;疯狂抢红包&quot;&gt;&lt;a href=&quot;#疯狂抢红包&quot; class=&quot;headerlink&quot; title=&quot;疯狂抢红包&quot;&gt;&lt;/a&gt;疯狂抢红包&lt;/h1&gt;&lt;p&gt;基于微擎系统的功能模块，通过接入微信商户完成清算功能。自带三种玩法，适合线上或线下红包活动。&lt;/p&gt;
-&lt;h1
+          &lt;h1 id=&quot;疯狂抢红包&quot;&gt;&lt;a href=&quot;#疯狂抢红包&quot; class=&quot;headerlink&quot; title=&quot;疯狂抢红包&quot;&gt;&lt;/a&gt;疯狂抢红包&lt;/h1&gt;&lt;p&gt;基于微擎系统的功能模块，通过接入微信商户完成清算功能。自带三种玩法，适合线上或线下红包活动。&lt;a
         
       
     
