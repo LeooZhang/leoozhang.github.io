@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://say233.store/"/>
-  <updated>2019-01-03T04:03:26.774Z</updated>
+  <updated>2019-01-03T04:16:59.382Z</updated>
   <id>https://say233.store/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>米波现场5.3.5</title>
+    <link href="https://say233.store/2019/01/03/miboxianchang/"/>
+    <id>https://say233.store/2019/01/03/miboxianchang/</id>
+    <published>2019-01-03T04:09:24.000Z</published>
+    <updated>2019-01-03T04:16:59.382Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="米波现场"><a href="#米波现场" class="headerlink" title="米波现场"></a>米波现场</h1><p>基于微擎系统的功能模块，通过接入微信商户完成清算功能。用于线下活动管理、会场签到、大屏活动。<a href="https://s.we7.cc/module-2628.html" target="_blank" rel="noopener">详见官网</a>。</p><h1 id="样例"><a href="#样例" class="headerlink" title="样例"></a>样例</h1><p>密码：<code>5678</code><br><a href="http://mibo.juxianchang.com/app/index.php?i=4&amp;c=entry&amp;rid=22&amp;small=0&amp;do=barwall&amp;m=meepo_xianchang" target="_blank" rel="noopener">查看样例</a></p><h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><ol><li>内置签到，抽奖，砸金蛋，抽奖箱，摇一摇，团队摇一摇，3D摇一摇，猴子爬树，疯狂数钱，3D签到，投票，抢红包，弹幕，对对碰，嘉宾展示，电子签约，相册，答题，许愿树，摇大将等25个功能。</li><li>每个功能都支持自定义背景、和背景有音乐功能。</li><li>抽奖类功能均支持同时设置多个奖品，并且可以设置每个奖品的顺序。</li><li>抢红包可设置固定以及随机红包，以及每个用户总抢得红包个数设置以及每轮可抢个数。</li><li>摇大将奖品支持实物、微信卡券、红包等，支持自定义奖品数量、概率等。</li><li>支持多活动同时举办，互不影响。</li><li>自带LBS限制地区功能，可以实现不在现场的人无法参与现场活动功能。</li><li>支持红包账户以及红包账户充值费率，可实现每个账号单独管理。</li><li>平台化，可单独出售账号，傻瓜式运营。</li><li>支持采购付费插件 ，选择多样化，现场功能更加别致。</li><li>支持会议提前报名。</li><li>支持参与互动前填写用户信息，表单项目均可灵活设置。</li><li>支持所有的公众号类型（非认证服务号需要借用oauth）。</li><li>支持用户组设置，不同账户可设置使用不同的功能。</li><li>支持数据清理，垃圾数据一键清理。</li></ol><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><ol><li>把模块包上传到addons的目录。</li><li>解压包。</li><li>登录微擎后台执行安装命令。</li></ol><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>密码：<code>eoqj</code><br><a href="https://pan.baidu.com/s/1Wo0xvv53YuxKzNsVD6GiVQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1Wo0xvv53YuxKzNsVD6GiVQ</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;米波现场&quot;&gt;&lt;a href=&quot;#米波现场&quot; class=&quot;headerlink&quot; title=&quot;米波现场&quot;&gt;&lt;/a&gt;米波现场&lt;/h1&gt;&lt;p&gt;基于微擎系统的功能模块，通过接入微信商户完成清算功能。用于线下活动管理、会场签到、大屏活动。&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="软件" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="微擎" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/%E5%BE%AE%E6%93%8E/"/>
+    
+    
+      <category term="微擎模块" scheme="https://say233.store/tags/%E5%BE%AE%E6%93%8E%E6%A8%A1%E5%9D%97/"/>
+    
+      <category term="钻石投票" scheme="https://say233.store/tags/%E9%92%BB%E7%9F%B3%E6%8A%95%E7%A5%A8/"/>
+    
+  </entry>
   
   <entry>
     <title>财务思维课13 经营决策：如何筛选有效财务信息？</title>
@@ -591,41 +623,6 @@
       <category term="见识" scheme="https://say233.store/tags/%E8%A7%81%E8%AF%86/"/>
     
       <category term="吴军" scheme="https://say233.store/tags/%E5%90%B4%E5%86%9B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>用Hexo搭建个人博客的方法</title>
-    <link href="https://say233.store/2018/12/31/buildHexo/"/>
-    <id>https://say233.store/2018/12/31/buildHexo/</id>
-    <published>2018-12-31T08:42:17.000Z</published>
-    <updated>2019-01-01T11:07:01.300Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="本地部署Hexo"><a href="#本地部署Hexo" class="headerlink" title="本地部署Hexo"></a>本地部署Hexo</h1><p>先在本地部署好hexo再说其他的。</p><h2 id="前提"><a href="#前提" class="headerlink" title="前提"></a>前提</h2><p>安装好node.js和git才能部署hexo。</p><h3 id="安装Node-js"><a href="#安装Node-js" class="headerlink" title="安装Node.js"></a>安装Node.js</h3><p>去<a href="https://nodejs.org/en/" target="_blank" rel="noopener">Node.js官网</a>下载安装即可。</p><h3 id="安装Git"><a href="#安装Git" class="headerlink" title="安装Git"></a>安装Git</h3><p>windows和macOS有点区别。</p><h4 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h4><p>去<a href="https://git-scm.com/download/win" target="_blank" rel="noopener">git官网</a>下载即可。由于众所周知的原因，从官网下载git for windows最好挂上一个代理，否则下载速度十分缓慢。也可以去<a href="https://github.com/waylau/git-for-win" target="_blank" rel="noopener">这个页面</a>，找个从百度云下载的地址。</p><h4 id="MacOS"><a href="#MacOS" class="headerlink" title="MacOS"></a>MacOS</h4><p>MacOS应该是自带git，可以打开终端执行<code>git --version</code>看看是否回复了版本号，回复了就说明有git，反之没有。已经有了的话，还是建议先去<a href="https://git-scm.com" target="_blank" rel="noopener">官网</a>下载个新的，然后替换下系统默认git版本。没有的话可以在终端执行<code>brew install git</code>进行安装，当然，也可以去<a href="https://git-scm.com/download/mac" target="_blank" rel="noopener">官网</a>下载。</p><h2 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h2><p>打开终端执行<code>sudo npm install -g hexo-cli</code>指令，会向MacOS用户要Mac登录密码，给它即可。</p><h2 id="建站"><a href="#建站" class="headerlink" title="建站"></a>建站</h2><p>终端cd到要建站的目录，然后执行<code>hexo init 你给站点文件夹起的名字（随便写，写英文，别写中文）</code>。</p><h2 id="安装npm"><a href="#安装npm" class="headerlink" title="安装npm"></a>安装npm</h2><p>终端cd到你的站点目录，执行<code>npm install</code>即可。安装完成后建议先执行<code>npm -v</code>看看自己npm的版本号，再执行<code>npm view npm version</code>看看最新版的版本号，有差距的话就建议你更新了，相信部分同胞知道差距后会意识到“大清早亡了”，这种情况下就要执行<code>sudo npm install npm@latest -g</code>把npm升级到最新版。</p><h2 id="启动Hexo"><a href="#启动Hexo" class="headerlink" title="启动Hexo"></a>启动Hexo</h2><p>还是在你的站点目录，终端执行<code>hexo s</code>即可启动本地hexo，浏览器打开<a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a>看看效果吧，应该会有一篇“hello world”的文章了已经。如果一切正常，那么Hexo就算部署完成了。</p><h2 id="修改Hexo配置"><a href="#修改Hexo配置" class="headerlink" title="修改Hexo配置"></a>修改Hexo配置</h2><p>你站点文件夹里的<code>_config.yml</code>文件负责管理大部分配置，可参考<a href="https://hexo.io/zh-cn/docs/configuration" target="_blank" rel="noopener">Hexo官网</a>修改参数。</p><h1 id="发布文章"><a href="#发布文章" class="headerlink" title="发布文章"></a>发布文章</h1><p>博客的主要目的就是写文章。</p><h2 id="生成MD文件"><a href="#生成MD文件" class="headerlink" title="生成MD文件"></a>生成MD文件</h2><p>终端cd到你的站点目录，执行<code>hexo new &quot;文件名（随便写，必须英文）&quot;</code>。</p><h2 id="编辑文章"><a href="#编辑文章" class="headerlink" title="编辑文章"></a>编辑文章</h2><p>刚才生成的md文件应该在<code>你的站点文件夹/source/_posts/</code>下，打开就开始写文章。注意，要用MarkDown语法呦。文件开头应该还有一些参数，可以在<a href="https://hexo.io/zh-cn/docs/front-matter" target="_blank" rel="noopener">Hexo官网</a>找到解释。</p><h2 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h2><p>在站点目录下终端执行后执行<code>hexo g</code>生成本地文件，然后执行<code>hexo s</code>，应该就可以在<a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a>看到新文章了。</p><h1 id="安装主题"><a href="#安装主题" class="headerlink" title="安装主题"></a>安装主题</h1><p>Hexo“主题”就是博客的前端框架，更换主题可以改变博客UI和一些功能组件。默认主题应该是叫“landscape”，可以去<a href="https://hexo.io/themes/" target="_blank" rel="noopener">Hexo官网</a>找你想要的主题。</p><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>不同主题的克隆地址不一样，这里以Next为例。终端cd到你博客的站点，执行<code>git clone https://github.com/iissnan/hexo-theme-next themes/next</code>然后等待安装完成。</p><h2 id="启用新主题"><a href="#启用新主题" class="headerlink" title="启用新主题"></a>启用新主题</h2><p>把站点文件夹里的<code>_config.yml</code>文件中的<code>theme</code>参数值改成<code>next</code>，改完别忘保存。</p><h2 id="部署预览"><a href="#部署预览" class="headerlink" title="部署预览"></a>部署预览</h2><p>在站点目录下终端执行<code>hexo clean</code>清下缓存，然后执行<code>hexo g</code>生成本地文件，接着执行<code>hexo s</code>本地发布一下，就可以在<a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a>看到效果了应该。</p><h1 id="提交到Github"><a href="#提交到Github" class="headerlink" title="提交到Github"></a>提交到Github</h1><p>之前都是本地行为，提交到github后就能在线上浏览博客了。可以在<a href="https://hexo.io/zh-cn/docs/deployment" target="_blank" rel="noopener">Hexo官网</a>找到其它线上部署方式。</p><h2 id="仓库"><a href="#仓库" class="headerlink" title="仓库"></a>仓库</h2><p>博客文件是存放在github仓库里的，所以得有个仓库，去<a href="https://github.com" target="_blank" rel="noopener">github官网</a>自行创建下就行。</p><h2 id="修改配置"><a href="#修改配置" class="headerlink" title="修改配置"></a>修改配置</h2><p>在你站点文件夹里<code>_config.yml</code>文件中的<code>deploy</code>参数改成下面这样：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: 用来存放博客文件的github项目仓库地址</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure><h2 id="安装部署插件"><a href="#安装部署插件" class="headerlink" title="安装部署插件"></a>安装部署插件</h2><p>你站点目录下终端执行<code>npm install hexo-deployer-git --save</code>。</p><h2 id="部署上线"><a href="#部署上线" class="headerlink" title="部署上线"></a>部署上线</h2><p>你站点目录下终端执行<code>hexo g -d</code>，之后应该向你要github用户名和密码，给之。一切完成后，就能通过你的Github Pages地址访问你的博客了。</p><h2 id="添加SSH-Key到Github"><a href="#添加SSH-Key到Github" class="headerlink" title="添加SSH Key到Github"></a>添加SSH Key到Github</h2><p>终端执行<code>ls -al ~/.ssh</code>命令，看看是否有<code>id_rsa.pub</code>或<code>id_dsa.pub</code>文件。如果没有，就执行<code>ssh-keygen -t rsa -C &quot;你github账号邮箱&quot;</code>下载key。有了key，就打开下载的key文件复制ssh key，然后到github首页点击你的头像，点击【Settings】，再点击【SSH and GPG keys】，再点【New SSH key】，然后把你复制的ssh key粘贴进去，再填些必要信息，最后点【Add SSH key】就完成。</p><h1 id="提交到Coding"><a href="#提交到Coding" class="headerlink" title="提交到Coding"></a>提交到Coding</h1><p>他家服务器在香港，速度必然会比github的境外服务器快。</p><h2 id="仓库-1"><a href="#仓库-1" class="headerlink" title="仓库"></a>仓库</h2><p>必然也得要个项目仓库。</p><h2 id="把Github上的文件Clone到本地"><a href="#把Github上的文件Clone到本地" class="headerlink" title="把Github上的文件Clone到本地"></a>把Github上的文件Clone到本地</h2><p>终端执行<code>git clone --bare 存放博客文件的github仓库的项目地址</code>。</p><h2 id="把文件推到Coding"><a href="#把文件推到Coding" class="headerlink" title="把文件推到Coding"></a>把文件推到Coding</h2><p>终端cd到刚才从github克隆下来文件目录下，执行<code>git push --mirror 你coding项目仓库地址</code>。</p><h2 id="修改配置-1"><a href="#修改配置-1" class="headerlink" title="修改配置"></a>修改配置</h2><p>在你站点文件夹里<code>_config.yml</code>文件中的<code>deploy</code>参数改成下面这样：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">deploy:</span><br><span class="line">  type: git</span><br><span class="line">  repository: </span><br><span class="line">    github: 用来存放博客文件的github项目仓库地址</span><br><span class="line">    coding: 用来存放博客文件的coding项目仓库地址</span><br><span class="line">  branch: master</span><br></pre></td></tr></table></figure><p>repository同时存在github和coding项目库地址，即表示</p><h2 id="创建标志文件"><a href="#创建标志文件" class="headerlink" title="创建标志文件"></a>创建标志文件</h2><p>终端cd到<code>你的站点目录/source</code>目录下，执行<code>touch Staticfile</code>。</p><h2 id="部署上线-1"><a href="#部署上线-1" class="headerlink" title="部署上线"></a>部署上线</h2><p>在你站点目录下终端执行<code>hexo g -d</code>，成功发布后，就可以通过你的Coding Pages地址访问你的博客了。注意，完成到这步后，每次执行<code>hexo g -d</code>都会将本地博客文件同时部署到github和coding，可以通过删除上述<code>deploy</code>参数下<code>repository</code>的对应值来修改此设定，比如删除<code>github: 用来存放博客文件的github仓库的项目地址</code>，那么之后就只会部署到coding项目库。</p><h1 id="绑定个人域名"><a href="#绑定个人域名" class="headerlink" title="绑定个人域名"></a>绑定个人域名</h1><p>之前都是通过其它平台二级域名访问博客，通过自己的域名访问岂不是更有面儿。</p><h2 id="与Github绑定"><a href="#与Github绑定" class="headerlink" title="与Github绑定"></a>与Github绑定</h2><p>如果想coding与github都绑定同一域名的话，建议先绑定coding再回来绑定github。</p><h3 id="创建CNAME文件"><a href="#创建CNAME文件" class="headerlink" title="创建CNAME文件"></a>创建CNAME文件</h3><p>终端cd到<code>你博客文件夹/source</code>目录，执行<code>touch CNAME</code>，然后打开这个文件写入你要绑定的域名，只填二级域名就行，不用加http协议这些东西，写好后记得保存。</p><h3 id="解析"><a href="#解析" class="headerlink" title="解析"></a>解析</h3><p>到你域名服务商那里把要绑定的域名cname解析到你博客的Github Pages地址。</p><h3 id="Github关联"><a href="#Github关联" class="headerlink" title="Github关联"></a>Github关联</h3><p>登录github进入博客的项目库，然后点击【Settings】进入项目设置页面，然后在“Custom domain”输入框中填入你解析好的域名并保存，一切顺利的话，等一会儿应该就可以通过你自己域名访问博客了。</p><h2 id="与Coding绑定"><a href="#与Coding绑定" class="headerlink" title="与Coding绑定"></a>与Coding绑定</h2><p>还是因为众所周知的原因，访问coding就是比访问github快。</p><h3 id="解析-1"><a href="#解析-1" class="headerlink" title="解析"></a>解析</h3><p>到你域名服务商那里把要绑定的域名cname解析到你博客的Coding Pages地址。</p><h3 id="Coding关联"><a href="#Coding关联" class="headerlink" title="Coding关联"></a>Coding关联</h3><p>登录coding进入博客项目库，通过【代码】——【Pages服务】——【设置】绑定你解析好的域名，还是如果不出意外的话，等一会儿就可以通过你自己域名访问博客了。</p><h1 id="更新文章"><a href="#更新文章" class="headerlink" title="更新文章"></a>更新文章</h1><p>日常更新一般是下述流程。</p><ol><li><code>hexo new &quot;文件名&quot;</code>生成md文件。</li><li>打开md文件开始创作。</li><li>奋战结束后保存你的成果。</li><li><code>hexo clean</code>清下缓存。</li><li><code>hexo g -d</code>发布上线。</li><li>打开浏览器，通过你的域名访问博客看她有多美丽。</li></ol><h1 id="备份"><a href="#备份" class="headerlink" title="备份"></a>备份</h1><p>就是git备份代码的那套流程，可以看看<a href="https://www.git-scm.com/doc" target="_blank" rel="noopener">Git文档</a>了解更多，当然了，还是备份在自己硬盘里最可靠。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;本地部署Hexo&quot;&gt;&lt;a href=&quot;#本地部署Hexo&quot; class=&quot;headerlink&quot; title=&quot;本地部署Hexo&quot;&gt;&lt;/a&gt;本地部署Hexo&lt;/h1&gt;&lt;p&gt;先在本地部署好hexo再说其他的。&lt;/p&gt;
-&lt;h2 id=&quot;前提&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-      <category term="软件" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/"/>
-    
-      <category term="教程" scheme="https://say233.store/categories/%E8%BD%AF%E4%BB%B6/%E6%95%99%E7%A8%8B/"/>
-    
-    
-      <category term="教程" scheme="https://say233.store/tags/%E6%95%99%E7%A8%8B/"/>
-    
-      <category term="hexo" scheme="https://say233.store/tags/hexo/"/>
-    
-      <category term="next" scheme="https://say233.store/tags/next/"/>
     
   </entry>
   
