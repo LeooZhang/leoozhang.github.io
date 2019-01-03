@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://say233.store/"/>
-  <updated>2019-01-03T04:18:06.515Z</updated>
+  <updated>2019-01-03T04:19:49.645Z</updated>
   <id>https://say233.store/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://say233.store/2019/01/03/miboxianchang/"/>
     <id>https://say233.store/2019/01/03/miboxianchang/</id>
     <published>2019-01-03T04:09:24.000Z</published>
-    <updated>2019-01-03T04:18:06.515Z</updated>
+    <updated>2019-01-03T04:19:49.645Z</updated>
     
     <content type="html"><![CDATA[<h1 id="米波现场"><a href="#米波现场" class="headerlink" title="米波现场"></a>米波现场</h1><p>基于微擎系统的功能模块，通过接入微信商户完成清算功能。用于线下活动管理、会场签到、大屏活动。<a href="https://s.we7.cc/module-2628.html" target="_blank" rel="noopener">详见官网</a>。</p><h1 id="样例"><a href="#样例" class="headerlink" title="样例"></a>样例</h1><p>登录密码：<code>5678</code><br><a href="http://mibo.juxianchang.com/app/index.php?i=4&amp;c=entry&amp;rid=22&amp;small=0&amp;do=barwall&amp;m=meepo_xianchang" target="_blank" rel="noopener">查看样例</a></p><h1 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h1><ol><li>内置签到，抽奖，砸金蛋，抽奖箱，摇一摇，团队摇一摇，3D摇一摇，猴子爬树，疯狂数钱，3D签到，投票，抢红包，弹幕，对对碰，嘉宾展示，电子签约，相册，答题，许愿树，摇大将等25个功能。</li><li>每个功能都支持自定义背景、和背景有音乐功能。</li><li>抽奖类功能均支持同时设置多个奖品，并且可以设置每个奖品的顺序。</li><li>抢红包可设置固定以及随机红包，以及每个用户总抢得红包个数设置以及每轮可抢个数。</li><li>摇大将奖品支持实物、微信卡券、红包等，支持自定义奖品数量、概率等。</li><li>支持多活动同时举办，互不影响。</li><li>自带LBS限制地区功能，可以实现不在现场的人无法参与现场活动功能。</li><li>支持红包账户以及红包账户充值费率，可实现每个账号单独管理。</li><li>平台化，可单独出售账号，傻瓜式运营。</li><li>支持采购付费插件 ，选择多样化，现场功能更加别致。</li><li>支持会议提前报名。</li><li>支持参与互动前填写用户信息，表单项目均可灵活设置。</li><li>支持所有的公众号类型（非认证服务号需要借用oauth）。</li><li>支持用户组设置，不同账户可设置使用不同的功能。</li><li>支持数据清理，垃圾数据一键清理。</li></ol><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><ol><li>把模块包上传到addons的目录。</li><li>解压包。</li><li>登录微擎后台执行安装命令。</li></ol><h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>密码：<code>eoqj</code><br><a href="https://pan.baidu.com/s/1Wo0xvv53YuxKzNsVD6GiVQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1Wo0xvv53YuxKzNsVD6GiVQ</a></p>]]></content>
     
@@ -44,7 +44,7 @@
     
       <category term="微擎模块" scheme="https://say233.store/tags/%E5%BE%AE%E6%93%8E%E6%A8%A1%E5%9D%97/"/>
     
-      <category term="钻石投票" scheme="https://say233.store/tags/%E9%92%BB%E7%9F%B3%E6%8A%95%E7%A5%A8/"/>
+      <category term="现场签到" scheme="https://say233.store/tags/%E7%8E%B0%E5%9C%BA%E7%AD%BE%E5%88%B0/"/>
     
   </entry>
   
