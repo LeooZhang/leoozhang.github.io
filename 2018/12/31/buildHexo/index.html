@@ -110,10 +110,12 @@
 <meta property="og:site_name" content="SAY233">
 <meta property="og:description" content="本地部署Hexo先在本地部署好hexo再说其他的。 前提安装好node.js和git才能部署hexo。 安装Node.js去Node.js官网下载安装即可。 安装Gitwindows和macOS有点区别。 Windows去git官网下载即可。由于众所周知的原因，从官网下载git for windows最好挂上一个代理，否则下载速度十分缓慢。也可以去这个页面，找个从百度云下载的地址。 MacOSMa">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-01-04T09:17:18.587Z">
+<meta property="og:image" content="https://hexo.io/zh-cn/docs/deployment">
+<meta property="og:updated_time" content="2019-01-04T09:20:55.138Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="用Hexo搭建个人博客的方法">
 <meta name="twitter:description" content="本地部署Hexo先在本地部署好hexo再说其他的。 前提安装好node.js和git才能部署hexo。 安装Node.js去Node.js官网下载安装即可。 安装Gitwindows和macOS有点区别。 Windows去git官网下载即可。由于众所周知的原因，从官网下载git for windows最好挂上一个代理，否则下载速度十分缓慢。也可以去这个页面，找个从百度云下载的地址。 MacOSMa">
+<meta name="twitter:image" content="https://hexo.io/zh-cn/docs/deployment">
 
 
 
@@ -532,7 +534,7 @@
 <h2 id="修改配置-1"><a href="#修改配置-1" class="headerlink" title="修改配置"></a>修改配置</h2><p>在你站点文件夹里<code>_config.yml</code>文件中的<code>deploy</code>参数改成下面这样：</p>
 <figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="attr">deploy:</span></span><br><span class="line"><span class="attr">  type:</span> <span class="string">git</span></span><br><span class="line"><span class="attr">  repository:</span> </span><br><span class="line"><span class="attr">    github:</span> <span class="string">用来存放博客文件的github项目仓库地址</span></span><br><span class="line"><span class="attr">    coding:</span> <span class="string">用来存放博客文件的coding项目仓库地址</span></span><br><span class="line"><span class="attr">  branch:</span> <span class="string">master</span></span><br></pre></td></tr></table></figure>
 <h2 id="创建标志文件"><a href="#创建标志文件" class="headerlink" title="创建标志文件"></a>创建标志文件</h2><p>终端cd到<code>你的站点目录/source</code>目录下，执行<code>touch Staticfile</code>。</p>
-<h2 id="部署上线-1"><a href="#部署上线-1" class="headerlink" title="部署上线"></a>部署上线</h2><p>在你站点目录下终端执行<code>hexo g -d</code>，成功发布后，就可以通过你的Coding Pages地址访问你的博客了。注意，完成到这步后，每次执行<code>hexo g -d</code>都会将本地博客文件同时部署到github和coding，可以通过删除上述<code>deploy</code>参数下<code>repository</code>的对应值来修改此设定，比如删除<code>github: 用来存放博客文件的github仓库的项目地址</code>，那么之后就只会部署到coding项目库。</p>
+<h2 id="部署上线-1"><a href="#部署上线-1" class="headerlink" title="部署上线"></a>部署上线</h2><p>在你站点目录下终端执行<code>hexo g -d</code>，成功发布后，就可以通过你的Coding Pages地址访问你的博客了。注意，完成到这步后，每次执行<code>hexo g -d</code>都会将本地博客文件同时部署到github和coding，可以通过删除上述<code>deploy</code>参数下<code>repository</code>的对应值来修改此设定，比如删除<code>github: 用来存放博客文件的github仓库的项目地址</code>，那么之后就只会部署到coding项目库。建议参考<img src="https://hexo.io/zh-cn/docs/deployment" alt="官网">修改呦。</p>
 <h1 id="绑定个人域名"><a href="#绑定个人域名" class="headerlink" title="绑定个人域名"></a>绑定个人域名</h1><p>之前都是通过其它平台二级域名访问博客，通过自己的域名访问岂不是更有面儿。</p>
 <h2 id="与Github绑定"><a href="#与Github绑定" class="headerlink" title="与Github绑定"></a>与Github绑定</h2><p>如果想coding与github都绑定同一域名的话，建议先绑定coding再回来绑定github。</p>
 <h3 id="创建CNAME文件"><a href="#创建CNAME文件" class="headerlink" title="创建CNAME文件"></a>创建CNAME文件</h3><p>终端cd到<code>你博客文件夹/source</code>目录，执行<code>touch CNAME</code>，然后打开这个文件写入你要绑定的域名，只填二级域名就行，不用加http协议这些东西，写好后记得保存。</p>
