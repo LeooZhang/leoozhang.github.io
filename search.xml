@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[MacOS开启NTFS读写的方法]]></title>
     <url>%2F2019%2F02%2F06%2Fntfsioformac%2F</url>
-    <content type="text"><![CDATA[说明简单的说，就是通过修改系统挂载来实现NTFS的读写。 步骤 插上硬盘后，记住你的硬盘名称。 打开终端，输入sudo nano /etc/fstab后敲回车。 在编辑界面输入LABEL=AngleDisk none ntfs rw,auto,nobrowse后敲回车，再Ctrl+X，再敲击Y，再敲回车。 推出你的移动硬盘，再重新插入。 打开/Volumes文件夹，你的可自由读写NTFS硬盘就在这里。 注意很可能用了几次很正常，再用的话就发现插入硬盘之后不能识别了。 原因可能是这个硬盘在拔出的时候没有正确弹出。 这种情况下，可以把硬盘插入 windows 的电脑后正确的弹出一次，再插在 MacOS 里挂载，应该就没问题了。]]></content>
+    <content type="text"><![CDATA[说明简单的说，就是通过修改系统挂载来实现NTFS的读写。 步骤 打开终端，输入sudo nano /etc/fstab后敲回车。 在编辑界面输入LABEL=你硬盘的名字 none ntfs rw,auto,nobrowse后敲回车，再Ctrl+X，再敲击Y，再敲回车。 插入硬盘。已经挂载了的就推出再插入。 打开/Volumes文件夹，你的可自由读写NTFS硬盘就在这里。 注意很可能用了几次很正常，再用的话就发现插入硬盘之后不能识别了。 原因可能是这个硬盘在拔出的时候没有正确弹出。 这种情况下，可以把硬盘插入 windows 的电脑后正确的弹出一次，再插在 MacOS 里挂载，应该就没问题了。]]></content>
       <categories>
         <category>方法</category>
       </categories>
