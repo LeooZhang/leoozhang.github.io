@@ -422,6 +422,16 @@
 
           
           
+            <span id="/2019/01/01/caiwusiwei-jianing-2/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课2 资产边界：属于你的就是资产吗？">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -609,6 +619,16 @@
           
 
           
+          
+            <span id="/2019/01/01/caiwusiwei-jianing-1/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课1 公司能装进财务报表里吗？">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -798,6 +818,16 @@
 
           
           
+            <span id="/2019/01/01/caiwusiwei-jianing/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课 发刊词 从此成为一个懂财务的人">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -979,6 +1009,16 @@
 
           
           
+            <span id="/2018/12/31/jianshi-wujun/" class="post-meta-item leancloud_visitors" data-flag-title="见识 PDF">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -1159,6 +1199,16 @@
           
 
           
+          
+            <span id="/2018/12/31/buildHexo/" class="post-meta-item leancloud_visitors" data-flag-title="用Hexo搭建个人博客的方法">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -1344,6 +1394,16 @@
 
           
           
+            <span id="/2018/12/31/bookList/" class="post-meta-item leancloud_visitors" data-flag-title="不知道谁推荐的书单">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -1528,6 +1588,16 @@
           
 
           
+          
+            <span id="/2018/12/31/Platform-strategy/" class="post-meta-item leancloud_visitors" data-flag-title="平台战略 PDF">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -1716,6 +1786,16 @@
           
 
           
+          
+            <span id="/2018/12/31/haoman-qjb/" class="post-meta-item leancloud_visitors" data-flag-title="疯狂抢红包8.0.4">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -1909,6 +1989,16 @@
 
           
           
+            <span id="/2018/12/30/we7shop/" class="post-meta-item leancloud_visitors" data-flag-title="人人商城 V3.3.3.10.18 完整破解版">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -2101,6 +2191,16 @@
           
 
           
+          
+            <span id="/2018/12/30/weiqing1-8-2/" class="post-meta-item leancloud_visitors" data-flag-title="微擎1.8.2破解版">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -2887,6 +2987,74 @@
 
 
   
+  
+  <script>
+    
+    function showTime(Counter) {
+      var entries = [];
+      var $visitors = $('.leancloud_visitors');
+
+      $visitors.each(function() {
+        entries.push( $(this).attr('id').trim() );
+      });
+
+      Counter('get', '/classes/Counter', { where: JSON.stringify({ url: { '$in': entries } }) })
+        .done(function({ results }) {
+          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
+
+          if (results.length === 0) {
+            $visitors.find(COUNT_CONTAINER_REF).text(0);
+            return;
+          }
+
+          for (var i = 0; i < results.length; i++) {
+            var item = results[i];
+            var url = item.url;
+            var time = item.time;
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+          for (var i = 0; i < entries.length; i++) {
+            var url = entries[i];
+            var element = document.getElementById(url);
+            var countSpan = $(element).find(COUNT_CONTAINER_REF);
+            if (countSpan.text() == '') {
+              countSpan.text(0);
+            }
+          }
+        })
+        .fail(function ({ responseJSON }) {
+          console.log('LeanCloud Counter Error: ' + responseJSON.code + ' ' + responseJSON.error);
+        });
+    }
+    
+
+    $(function() {
+      $.get('https://app-router.leancloud.cn/2/route?appId=' + 'GaxQp4iM9ixYHdiEDLlq5WUR-gzGzoHsz')
+        .done(function({ api_server }) {
+          var Counter = function(method, url, data) {
+            return $.ajax({
+              method: method,
+              url: 'https://' + api_server + '/1.1' + url,
+              headers: {
+                'X-LC-Id': 'GaxQp4iM9ixYHdiEDLlq5WUR-gzGzoHsz',
+                'X-LC-Key': 'S02WmaGAqP1vcAODBEGxJ79v',
+                'Content-Type': 'application/json',
+              },
+              data: data
+            });
+          };
+          
+            if ($('.post-title-link').length >= 1) {
+              showTime(Counter);
+            }
+          
+        });
+    });
+  </script>
+
+
 
   
 

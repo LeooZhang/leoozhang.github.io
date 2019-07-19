@@ -422,6 +422,16 @@
 
           
           
+            <span id="/2019/01/02/caiwusiwei-jianing-8/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课8 财报实战：凡有表象，必有秘藏">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -609,6 +619,16 @@
           
 
           
+          
+            <span id="/2019/01/02/weiketang/" class="post-meta-item leancloud_visitors" data-flag-title="微课堂2.6.3">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -804,6 +824,16 @@
 
           
           
+            <span id="/2019/01/02/toupiao/" class="post-meta-item leancloud_visitors" data-flag-title="钻石投票5.32">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -995,6 +1025,16 @@
 
           
           
+            <span id="/2019/01/01/caiwusiwei-jianing-7/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课7 现金结构：现金流为负，为何还能上市？">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -1182,6 +1222,16 @@
           
 
           
+          
+            <span id="/2019/01/01/caiwusiwei-jianing-6/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课6 现金水平：手里的钱是越多越好吗？">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -1371,6 +1421,16 @@
 
           
           
+            <span id="/2019/01/01/caiwusiwei-jianing-5/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课5 利润质量：可持续利润最可贵">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -1559,6 +1619,16 @@
 
           
           
+            <span id="/2019/01/01/caiwusiwei-jianing-4/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课4 利润革命：近似的正确好过精确的错误">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
+          
 
           
 
@@ -1739,6 +1809,16 @@
           
 
           
+          
+            <span id="/2019/01/01/caizhizhong-yixi/" class="post-meta-item leancloud_visitors" data-flag-title="蔡志忠：为什么努力是没有用的？【一席精选】视频">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -1924,6 +2004,16 @@ OS为什么努力是没有用的？因为努力只是达到目标的手段，如
           
 
           
+          
+            <span id="/2019/01/01/Asking-the-right-questions/" class="post-meta-item leancloud_visitors" data-flag-title="学会提问 PDF">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -2112,6 +2202,16 @@ OS为什么努力是没有用的？因为努力只是达到目标的手段，如
           
 
           
+          
+            <span id="/2019/01/01/caiwusiwei-jianing-3/" class="post-meta-item leancloud_visitors" data-flag-title="财务思维课3 负债经营：高负债等于高风险吗？">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              
+                <span class="post-meta-item-text">阅读次数：</span>
+              
+                <span class="leancloud-visitors-count"></span>
+            </span>
           
 
           
@@ -2897,6 +2997,74 @@ OS为什么努力是没有用的？因为努力只是达到目标的手段，如
 
 
   
+  
+  <script>
+    
+    function showTime(Counter) {
+      var entries = [];
+      var $visitors = $('.leancloud_visitors');
+
+      $visitors.each(function() {
+        entries.push( $(this).attr('id').trim() );
+      });
+
+      Counter('get', '/classes/Counter', { where: JSON.stringify({ url: { '$in': entries } }) })
+        .done(function({ results }) {
+          var COUNT_CONTAINER_REF = '.leancloud-visitors-count';
+
+          if (results.length === 0) {
+            $visitors.find(COUNT_CONTAINER_REF).text(0);
+            return;
+          }
+
+          for (var i = 0; i < results.length; i++) {
+            var item = results[i];
+            var url = item.url;
+            var time = item.time;
+            var element = document.getElementById(url);
+
+            $(element).find(COUNT_CONTAINER_REF).text(time);
+          }
+          for (var i = 0; i < entries.length; i++) {
+            var url = entries[i];
+            var element = document.getElementById(url);
+            var countSpan = $(element).find(COUNT_CONTAINER_REF);
+            if (countSpan.text() == '') {
+              countSpan.text(0);
+            }
+          }
+        })
+        .fail(function ({ responseJSON }) {
+          console.log('LeanCloud Counter Error: ' + responseJSON.code + ' ' + responseJSON.error);
+        });
+    }
+    
+
+    $(function() {
+      $.get('https://app-router.leancloud.cn/2/route?appId=' + 'GaxQp4iM9ixYHdiEDLlq5WUR-gzGzoHsz')
+        .done(function({ api_server }) {
+          var Counter = function(method, url, data) {
+            return $.ajax({
+              method: method,
+              url: 'https://' + api_server + '/1.1' + url,
+              headers: {
+                'X-LC-Id': 'GaxQp4iM9ixYHdiEDLlq5WUR-gzGzoHsz',
+                'X-LC-Key': 'S02WmaGAqP1vcAODBEGxJ79v',
+                'Content-Type': 'application/json',
+              },
+              data: data
+            });
+          };
+          
+            if ($('.post-title-link').length >= 1) {
+              showTime(Counter);
+            }
+          
+        });
+    });
+  </script>
+
+
 
   
 
