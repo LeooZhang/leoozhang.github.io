@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.say233.store/"/>
-  <updated>2020-10-06T08:50:51.032Z</updated>
+  <updated>2020-11-12T09:07:15.740Z</updated>
   <id>https://www.say233.store/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用于中国联通商旅公众客户端的“智能推荐”项目</title>
+    <link href="https://www.say233.store/2020/11/12/intelligentrecommendation/"/>
+    <id>https://www.say233.store/2020/11/12/intelligentrecommendation/</id>
+    <published>2020-11-12T08:16:34.000Z</published>
+    <updated>2020-11-12T09:07:15.740Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>这是联通商旅公众客户端的“智能推荐”项目物料，本人在项目中作为产品经理经历了项目的前、中、后期，从收集需求到立项再到方案设计再到安排实施直至项目落地，分享出项目物料供以后参考，除了下述ppt，还有项目计划、需求说明和立项相关物料，需要的可以联系我获取。</p><h1 id="千人千面（智能推荐）计划说明-PPT"><a href="#千人千面（智能推荐）计划说明-PPT" class="headerlink" title="千人千面（智能推荐）计划说明-PPT"></a>千人千面（智能推荐）计划说明-PPT</h1><p><img src="http://r.qiangweihui.com/intelligentrecommendation1.jpg" alt="intelligentrecommendation1"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation2.jpg" alt="intelligentrecommendation2"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation3.jpg" alt="intelligentrecommendation3"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation4.jpg" alt="intelligentrecommendation4"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation5.jpg" alt="intelligentrecommendation5"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation6.jpg" alt="intelligentrecommendation6"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation7.jpg" alt="intelligentrecommendation7"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation8.jpg" alt="intelligentrecommendation8"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation9.jpg" alt="intelligentrecommendation9"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="认知" scheme="https://www.say233.store/categories/%E8%AE%A4%E7%9F%A5/"/>
+    
+    
+      <category term="智能推荐" scheme="https://www.say233.store/tags/%E6%99%BA%E8%83%BD%E6%8E%A8%E8%8D%90/"/>
+    
+      <category term="中国联通" scheme="https://www.say233.store/tags/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>对《引爆点》的总结记录</title>
@@ -575,34 +605,6 @@
     
     
       <category term="HR" scheme="https://www.say233.store/tags/HR/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>非同质化协议：以太坊ERC-1155</title>
-    <link href="https://www.say233.store/2019/04/05/ERC721/"/>
-    <id>https://www.say233.store/2019/04/05/ERC721/</id>
-    <published>2019-04-05T07:47:43.000Z</published>
-    <updated>2019-04-05T08:10:33.799Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="为什么会有ERC-1155"><a href="#为什么会有ERC-1155" class="headerlink" title="为什么会有ERC-1155"></a>为什么会有ERC-1155</h1><p>Witek Radomski在具体设计coin的过程中发现，现有的代币标准，根本不能满足现代主流游戏的需要嘛。</p><p>为啥？</p><p>因为根据现在的机制，每个token都需要一个独立的合约来定义。</p><p>那意味着什么？</p><p>如果有一个大型的区块链游戏好像runescape或者world of warcraft这种，每个里面都有至少几万种完全不同的物品。如果用现行的token机制来定义，就要每个游戏都要设立几万个合约来定义这些物品。</p><p>这种情况就好比你要为你的每个app都买一台全新的电脑来装载。</p><p>很显然，这完全没有必要，是极大的浪费。</p><p>而其实定义这些代币的合约，本身代码大部分都是重复的，只是在一些微小参数上进行了调整。但即便是这样，对于记账的节点来讲，他们也需要兢兢业业一丝不苟的把这些大部分重合的合约都一一记录在案，并为每一个代币合约永远保留它的代码和接口。</p><p>为了解决这一问题，ERC-1155出现了。</p><p><img src="http://r.qiangweihui.com/erc721.jpeg" alt="ERC-721、1155、998和BN1080对比"></p><h1 id="它的基本原理"><a href="#它的基本原理" class="headerlink" title="它的基本原理"></a>它的基本原理</h1><p>ERC-1155是一种定义token的新标准，1155是这种方法的编号。</p><p>1155标准定义了一种解决上述问题的新方法。</p><p>现在“物品”（可能包含ERC20的token或ERC721的token或两者都有）可以被单一的一个合约（打包处理）来定义了。</p><p>合约里包含区别token们所需的最小量的数据。</p><p>好比，后来出现的视频压缩技术，后一帧只记录了与前一帧的不同之处，所以极大的压缩了整个视频的体积。</p><p>合约的状态包含了每个token ID的配置信息和管理收集的所有行为。</p><p>ERC-1155的灵活性更强，它使得开发者可以自行选择是批量生成某一种特定的token，还是构建不可被复制的惟一原数据。</p><h1 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h1><p>ERC-1155协议的优势在于支持多币打包，降低交易成本，并且很好地支持原子交换，这些都是一些技术方面的信息。</p><p>可以在ERC-1155协议的基础上做进一步升级，比如说优化交易模式，提高Token属性。这样一来，就能做出一个更适合开发者开发的非同质化协议。</p><h1 id="举例"><a href="#举例" class="headerlink" title="举例"></a>举例</h1><p>定义一种宝剑道具只有1000把。</p><p>这个时候，你就可以在同一条链上既定义1000把宝剑道具，又定义1000把长枪，它们两个是完全不同的东西，无法融合在一起，也无法被分割，永远都只有1000把。</p><p>这种情况可以称之为非同质化协议。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;为什么会有ERC-1155&quot;&gt;&lt;a href=&quot;#为什么会有ERC-1155&quot; class=&quot;headerlink&quot; title=&quot;为什么会有ERC-1155&quot;&gt;&lt;/a&gt;为什么会有ERC-1155&lt;/h1&gt;&lt;p&gt;Witek
-        
-      
-    
-    </summary>
-    
-      <category term="认知" scheme="https://www.say233.store/categories/%E8%AE%A4%E7%9F%A5/"/>
-    
-    
-      <category term="非同质化协议" scheme="https://www.say233.store/tags/%E9%9D%9E%E5%90%8C%E8%B4%A8%E5%8C%96%E5%8D%8F%E8%AE%AE/"/>
     
   </entry>
   
