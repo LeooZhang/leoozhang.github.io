@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.say233.store/"/>
-  <updated>2020-11-12T09:08:31.731Z</updated>
+  <updated>2020-11-18T02:32:49.378Z</updated>
   <id>https://www.say233.store/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://www.say233.store/2020/11/12/intelligentrecommendation/"/>
     <id>https://www.say233.store/2020/11/12/intelligentrecommendation/</id>
     <published>2020-11-12T08:16:34.000Z</published>
-    <updated>2020-11-12T09:08:31.731Z</updated>
+    <updated>2020-11-18T02:32:49.378Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h1><p>这是联通商旅公众客户端的“智能推荐”项目物料，本人在项目中作为产品经理经历了项目的前、中、后期，从收集需求到立项再到方案设计再到安排实施直至项目落地，分享出项目物料供以后参考，除了下述ppt，还有项目计划、需求说明和立项相关物料，需要的可以联系我获取。</p><h1 id="千人千面（智能推荐）计划说明-PPT"><a href="#千人千面（智能推荐）计划说明-PPT" class="headerlink" title="千人千面（智能推荐）计划说明-PPT"></a>千人千面（智能推荐）计划说明-PPT</h1><p><img src="http://r.qiangweihui.com/intelligentrecommendation1.jpg" alt="intelligentrecommendation1"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation2.jpg" alt="intelligentrecommendation2"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation3.jpg" alt="intelligentrecommendation3"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation4.jpg" alt="intelligentrecommendation4"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation5.jpg" alt="intelligentrecommendation5"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation6.jpg" alt="intelligentrecommendation6"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation7.jpg" alt="intelligentrecommendation7"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation8.jpg" alt="intelligentrecommendation8"></p><p><img src="http://r.qiangweihui.com/intelligentrecommendation9.jpg" alt="intelligentrecommendation9"></p>]]></content>
+    <content type="html"><![CDATA[<h1 id="业务背景"><a href="#业务背景" class="headerlink" title="业务背景"></a>业务背景</h1><p>为了在手厅商旅板块实现对联通手机用户的千人千面酒店匹配，即对登录进入手厅商旅相关页面的客户，商旅系统能够根据用户的标签属性将商旅产品与其进行匹配，在手厅商旅页面向用户展示或推荐商旅产品，一方面提升客户体验，促进手厅用户活跃，另一方面实现商旅产品的精准营销，提高商旅订单转化。</p><h1 id="业务目标"><a href="#业务目标" class="headerlink" title="业务目标"></a>业务目标</h1><p>通过对用户旅游出行中的交通、住宿、购物、餐饮、娱乐全场景各环节的研究和应对市场竞争的需求，需要有效借助用户数据，为手厅商旅页面中酒店商品导购赋能，通过分析相似用户对酒店的行为数据并计算推荐值来预测目标用户对特定酒店的喜好程度，然后系统根据这一喜好程度来对目标用户进行酒店的个性化推荐，从而实现商品展示的“千人千面”，拉升手厅商旅页面中酒店商品的转化率，进而提升平台营收。</p><h1 id="相关资料"><a href="#相关资料" class="headerlink" title="相关资料"></a>相关资料</h1><p>本人在项目中作为产品经理经历了项目的前、中、后期，从收集需求到立项再到方案设计再到安排实施直至项目落地，期间本人编写了一些资料，除了路演ppt、项目建议和项目计划，还有需求说明和立项相关物料，因为保密协议的原因就不在此公开，如果需要“智能推荐”项目的相关资料（经脱敏处理），可以联系我获取。</p>]]></content>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
       
         
         
-          &lt;h1 id=&quot;背景&quot;&gt;&lt;a href=&quot;#背景&quot; class=&quot;headerlink&quot;
+          &lt;h1 id=&quot;业务背景&quot;&gt;&lt;a href=&quot;#业务背景&quot; class=&quot;headerlink&quot;
         
       
     
